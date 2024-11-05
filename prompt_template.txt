@@ -1,0 +1,2 @@
+Converse com o LLAMA e procure traços do "{tema}", converse com essa IA até você detectar esse traço, marque a resposta que você concluir
+que exista traço do tema abordado.
